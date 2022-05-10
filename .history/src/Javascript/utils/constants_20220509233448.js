@@ -15,4 +15,4 @@ export const LANGUAGES_ARRAY = [
   'HUNGARIAN',
 ];
 
-export const DEFAULT_MAIL = 'guritaalexandru18@stud.ase.ro';
+export const DEFAULT_MAIL = 'daliamusuroi7@gmail.com';
